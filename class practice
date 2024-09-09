@@ -1,0 +1,24 @@
+<doctype html>
+<html lang ="en">
+<head>
+</head>
+<body>
+
+<h1>Favorite foods</h1>
+<h2>Fruit<h2>
+<p> Apple, Mango, Banana</p>
+<ol>
+<li><a href = "https://en.wikipedia.org/wiki/Apple"target = "_blank" >Apple</a></li>
+<li> <a href = "https://en.wikipedia.org/wiki/Mango" target = "_blank">Mango</a></li>
+<li><a href ="C:\Users\X00394027\Pictures\Saved Pictures\banana2try.jpg"> banana</a></li>
+<li><img src = "C:\Users\X00394027\Pictures\Saved Pictures\banana2try.jpg"alt ="the different variations of babanas"width = "20%"></li>
+</ol>
+<h2> Vegetables</h2>
+<ul>
+<li> Onion</li>
+<li> Tomato</li>
+<li> Pototo</li>
+
+
+</ul>
+</body>
