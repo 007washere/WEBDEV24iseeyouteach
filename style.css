@@ -1,0 +1,53 @@
+
+h1{
+    background-color : black ;
+    font-size : 30px;
+    color : white;
+    margin : 10px;
+    padding: 20px
+
+}
+h2{
+    font-size : 20px;
+    color : white;
+}
+
+
+h3{
+    background-color : black;
+    color : gold;
+    font-size : 25px
+
+}
+ol{
+    list-style : none;
+    color : purple ;
+}
+p{
+    font-family : Tahoma,ui-rounded;
+    font-size : 10px;
+    border : 2px solid black;
+}
+a{
+    text-decoration : none;
+}
+img{
+    border : 3px solid blue;
+
+
+}
+.practice-classes{
+    color : gray;
+    border : none;
+
+}
+.second-class{
+    color : black;
+    border : 2px solid black;
+
+
+}
+p.practice-classes.feedback{
+    border : 1px dashed black;
+}
+
